@@ -1,4 +1,5 @@
 # 💫 About Me:
+Soy un recien graduado de DAM, hice practicas como programador Full Stack, con dominio tanto en Front-end como en Back-end.
 🔭Actualmente trabajo en un juego en godot es mi primera vez programando algo en 3D hay mucha IA xd<br>🌱 Intento mejorar y aprender 3D<br>💬 Libre para preguntas o cualquier cosa<br>⚡:D
 
 
